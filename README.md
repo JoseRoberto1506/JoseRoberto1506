@@ -1,7 +1,8 @@
-## Oi eu sou o José Roberto! 👋
-### 👨‍💻 Um pouco sobre mim
-- 💻 Comecei a estudar sobre desenvolvimento no início de 2019. Iniciei estudando HTML5 e CSS3, e atualmente estou estudando Python. Mas ainda não decidi se serei desenvolvedor Front-End, Back-End ou Full Stack.
-- 💵 Também gosto de estudar sobre economia, investimentos e mercado financeiro.
+## Hi, i'm José Roberto! 👋
+### 📄 About me
+- 💻 I sarted to study programming at the beginning of 2019. I started studying HTML5 and CSS3, and currently i'm studying Python. I still not decide if i'll be a Front-End, Banck-End or Full-Stack developer.
+- 📚 Currently i am first-year undergraduate student of Information Systems at UFRPE (Rural Federal University of Pernambuco).
+- 💵 I also like to study about economy, investments and financial market.
 
 <div align="center">
   <a href="https://github.com/JoseRoberto1506">
