@@ -1,7 +1,7 @@
 ## Hi, i'm José Roberto! 👋
 ### 📄 About me
 - 💻 I sarted to study programming at the beginning of 2019. I started studying HTML5 and CSS3, and currently i'm studying Python. I still not decide if i'll be a Front-End, Banck-End or Full-Stack developer.
-- 📚 Currently i am first-year undergraduate student of Information Systems at UFRPE (Rural Federal University of Pernambuco).
+- 📚 Currently i'm undergraduate student of Information Systems at UFRPE (Rural Federal University of Pernambuco).
 - 💵 I also like to study about economy, investments and financial market.
 
 <div align="center">
@@ -21,5 +21,4 @@
   <div> 
   <a href="https://instagram.com/joseroberto_1506" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jos%C3%A9-roberto-ara%C3%BAjo-4a1487250/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="https://twitter.com/zeroberto1506" target="_blank"><img src ="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
 </div>
