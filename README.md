@@ -1,8 +1,8 @@
 ## Hi, i'm José Roberto! 👋
 ### 📄 About me
-- 💻 Studying Python, HTML5 and CSS3.
+- 💻  I've been studying and developing projects to apply my knowledge and enhance my skills in Python, HTML, and CSS. Recently, I started studying JavaScript to complement my knowledge in web development.
 - 📚 Undergraduate student of Information Systems at UFRPE (Rural Federal University of Pernambuco).
-- 💵 I also like to study about economy, investments and financial market.
+- 💵 I also like to study about economics, investments and financial market.
 
 <div align="center">
   <a href="https://github.com/JoseRoberto1506">
